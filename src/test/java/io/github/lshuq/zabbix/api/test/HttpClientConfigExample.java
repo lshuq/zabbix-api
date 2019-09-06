@@ -1,7 +1,7 @@
-package io.github.hengyunabc.zabbix.api.test;
+package io.github.lshuq.zabbix.api.test;
 
-import io.github.hengyunabc.zabbix.api.DefaultZabbixApi;
-import io.github.hengyunabc.zabbix.api.ZabbixApi;
+import io.github.lshuq.zabbix.api.DefaultZabbixApi;
+import io.github.lshuq.zabbix.api.ZabbixApi;
 
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.impl.client.CloseableHttpClient;

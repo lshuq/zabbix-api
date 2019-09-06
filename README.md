@@ -78,16 +78,11 @@ You can set your own ```HttpClient```.
 
 ```xml
 <dependency>
-    <groupId>io.github.hengyunabc</groupId>
+    <groupId>io.github.lshuq</groupId>
     <artifactId>zabbix-api</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.1</version>
 </dependency>
 ```
-
-##Links
-
-https://github.com/hengyunabc/zabbix-sender
-
 
 ##Licence
 Apache License V2

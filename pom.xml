@@ -6,14 +6,14 @@
 	</parent>
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>io.github.hengyunabc</groupId>
+	<groupId>io.github.lshuq</groupId>
 	<artifactId>zabbix-api</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 
 	<name>zabbix-api</name>
-	<description>zabbix-api for java</description>
-	<url>https://github.com/hengyunabc/zabbix-api</url>
-	<inceptionYear>2015</inceptionYear>
+	<description>zabbix-api for java forked from hengyunabc/zabbix-api</description>
+	<url>https://github.com/lshuq/zabbix-api</url>
+	<inceptionYear>2019</inceptionYear>
 
 	<licenses>
 		<license>
@@ -28,14 +28,17 @@
 		<developer>
 			<id>hengyunabc</id>
 			<name>hengyunabc</name>
-			<email>hengyunabc@gmail.com</email>
+		</developer>
+		<developer>
+			<id>lshuq</id>
+			<name>lshuq</name>
 		</developer>
 	</developers>
 
 	<scm>
-		<connection>scm:git:git@github.com:hengyunabc/zabbix-api.git</connection>
-		<developerConnection>scm:git:git@github.com:hengyunabc/zabbix-api.git</developerConnection>
-		<url>https://github.com/hengyunabc/zabbix-api</url>
+		<connection>scm:git:git@github.com:lshuq/zabbix-api.git</connection>
+		<developerConnection>scm:git:git@github.com:lshuq/zabbix-api.git</developerConnection>
+		<url>https://github.com/lshuq/zabbix-api</url>
 	</scm>
 
 	<properties>
